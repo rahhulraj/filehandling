@@ -1,0 +1,5 @@
+Book ID: B102
+Book Name: Python Programming
+Author: James Smith
+Publisher: Tech Publications
+Price: 650

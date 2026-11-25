@@ -1,0 +1,5 @@
+Employee ID: 105
+Name: Vaishak
+Department: Python Development
+Designation: Software Developer
+Salary: 35000
